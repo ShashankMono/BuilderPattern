@@ -1,0 +1,14 @@
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\bin\Debug\net8.0\BuilderPOC.exe
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\bin\Debug\net8.0\BuilderPOC.deps.json
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\bin\Debug\net8.0\BuilderPOC.runtimeconfig.json
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\bin\Debug\net8.0\BuilderPOC.dll
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\bin\Debug\net8.0\BuilderPOC.pdb
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.GeneratedMSBuildEditorConfig.editorconfig
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.AssemblyInfoInputs.cache
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.AssemblyInfo.cs
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.csproj.CoreCompileInputs.cache
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.dll
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\refint\BuilderPOC.dll
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.pdb
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\BuilderPOC.genruntimeconfig.cache
+D:\monocept_c# learning\Assignment\BuilderPOC\BuilderPOC\obj\Debug\net8.0\ref\BuilderPOC.dll
